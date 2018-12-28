@@ -51,4 +51,4 @@
 
 - [아듀 2018!](https://adieu2018.ahastudio.com/)
 - 이전 글: [Currying을 쓰는 이유](http://j.mp/2UtgSk5)
-- 다음 글: Given - When - Then
+- 다음 글: [Given-When-Then](http://j.mp/2SxeAyU)
