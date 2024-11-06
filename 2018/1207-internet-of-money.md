@@ -1,19 +1,25 @@
 # 책 - 비트코인, 그 시작과 미래
 
+- [아듀 2018!](https://adieu2018.ahastudio.com/)
+- 이전 글: [Currying을 쓰는 이유](https://j.mp/2UtgSk5)
+- 다음 글: [Given-When-Then](https://j.mp/2SxeAyU)
+
+---
+
 원제: The Internet of Money
 
 비트코인을 공부하는 사람들에게 유명한 책으로
-“[Mastering Bitcoin](http://j.mp/2QkT83k)”이 있습니다.
+“[Mastering Bitcoin](https://j.mp/2QkT83k)”이 있습니다.
 비트코인 입문서인 것처럼 번역이 됐지만 엔지니어를 대상으로 한 책으로,
 지금까지도 굉장히 중요한 책이라고 생각합니다.
 
 (2nd edition이 최근에
-“[비트코인, 공개 블록체인 프로그래밍](http://j.mp/2QkHd5D)”이란 제목으로
+“[비트코인, 공개 블록체인 프로그래밍](https://j.mp/2QkHd5D)”이란 제목으로
 번역됐습니다.)
 
 올해 초에 이 저자(안드레아스 안토노풀롤스)가 쓴 다른 책이 번역이 됐는데,
-그게 바로 이번에 다룰 “[비트코인, 그 시작과 미래](http://j.mp/2Rnw2Wa)”입니다.
-(원제: [The Internet of Money](http://j.mp/2RIPz3n)”)
+그게 바로 이번에 다룰 “[비트코인, 그 시작과 미래](https://j.mp/2Rnw2Wa)”입니다.
+(원제: [The Internet of Money](https://j.mp/2RIPz3n)”)
 
 원서는 2016년에 나왔고, 저자가 2013년부터 3년간 한 강연을 모은 책입니다.
 원서는 2권까지 나왔지만 아직 한국에는 1권의 번역서만 들어왔습니다.
@@ -50,5 +56,5 @@
 ---
 
 - [아듀 2018!](https://adieu2018.ahastudio.com/)
-- 이전 글: [Currying을 쓰는 이유](http://j.mp/2UtgSk5)
-- 다음 글: [Given-When-Then](http://j.mp/2SxeAyU)
+- 이전 글: [Currying을 쓰는 이유](https://j.mp/2UtgSk5)
+- 다음 글: [Given-When-Then](https://j.mp/2SxeAyU)
